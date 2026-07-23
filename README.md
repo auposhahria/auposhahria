@@ -1,20 +1,18 @@
 <div align="center">
-  <h2>Hello, I'm [Your Name] 👋</h2>
-  <p><em>[Your Profession/Title, e.g., Full Stack Developer | Data Scientist | Software Engineer]</em></p>
+  <h2>Hello, I'm Shahria Mahmud </h2>
+  <p><em> Backend Developer | Problem Solver | Software Engineer</em></p>
   
   ![](https://komarev.com/ghpvc/?username=auposhahri&color=blue&style=flat-square&label=Profile+Views)
 </div>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I am a passionate developer focused on building clean, scalable, and efficient solutions. I love solving complex problems and continuously learning new technologies.
 
 - 🔭 I’m currently working on **[Club Performance Tracker]**
-- 🌱 I’m currently learning **[A new framework, language, or concept you are studying]**
-- 🤝 I’m looking to collaborate on **[Open source projects, or type of projects you like]**
-- 📫 How to reach me: **[Your Email Address]**
-- 📄 View my resume/portfolio: **[Link to your portfolio website]**
+- 🌱 I’m currently learning **ASP DOT NET**
+- 📫 How to reach me: **gaziaupo9014@gmail.com**
 
 ---
 
